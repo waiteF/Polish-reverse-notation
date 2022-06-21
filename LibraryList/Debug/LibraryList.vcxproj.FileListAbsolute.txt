@@ -1,0 +1,2 @@
+C:\Users\Waite\source\repos\lab_two_A6_2\Debug\LibraryList.pdb
+C:\Users\Waite\source\repos\lab_two_A6_2\LibraryList\Debug\LibraryList.pdb

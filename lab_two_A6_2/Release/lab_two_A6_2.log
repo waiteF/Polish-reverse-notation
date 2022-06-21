@@ -1,0 +1,6 @@
+﻿  lab_two_A6_2.cpp
+C:\Users\Waite\source\repos\lab_two_A6_2\lab_two_A6_2\lab_two_A6_2.cpp(204,23): warning C4018: <: несоответствие типов со знаком и без знака
+lab_two_A6_2.obj : error LNK2001: неразрешенный внешний символ "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall list::back(void)" (?back@list@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ).
+lab_two_A6_2.obj : error LNK2001: неразрешенный внешний символ "public: void __thiscall list::print(void)" (?print@list@@QAEXXZ).
+lab_two_A6_2.obj : error LNK2001: неразрешенный внешний символ "public: void __thiscall list::push_back(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?push_back@list@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z).
+C:\Users\Waite\source\repos\lab_two_A6_2\Release\lab_two_A6_2.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
